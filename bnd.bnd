@@ -1,0 +1,4 @@
+Bundle-Name: WikiPermissions70
+Bundle-SymbolicName: wikipermissions70
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.wiki.service;bundle-version="1.6.7"
